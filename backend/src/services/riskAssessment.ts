@@ -107,5 +107,3 @@ export class RiskAssessmentService {
     }
   }
 }
-
-export const riskAssessmentService = new RiskAssessmentService()
